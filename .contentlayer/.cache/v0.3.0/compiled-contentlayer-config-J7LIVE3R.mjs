@@ -42,23 +42,7 @@ var contentlayer_config_default = makeSource({
     remarkPlugins: [remarkGfm],
     rehypePlugins: [
       rehypeSlug,
-      [
-        rehypePrettyCode,
-        {
-          theme: "one-dark-pro",
-          onVisitLine(node) {
-            if (node.children.length === 0) {
-              node.children = [{ type: "text", value: " " }];
-            }
-          },
-          onVisitHighlightedLine(node) {
-            node.properties.className.push("line--highlighted");
-          },
-          onVisitHighlightedWord(node) {
-            node.properties.className = ["word--highlighted"];
-          }
-        }
-      ],
+      [rehypePrettyCode],
       [
         rehypeAutolinkHeadings,
         {
@@ -74,4 +58,4 @@ export {
   Post,
   contentlayer_config_default as default
 };
-//# sourceMappingURL=compiled-contentlayer-config-TEQKQSJU.mjs.map
+//# sourceMappingURL=compiled-contentlayer-config-J7LIVE3R.mjs.map
