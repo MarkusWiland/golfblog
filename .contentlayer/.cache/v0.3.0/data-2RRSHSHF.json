@@ -1,0 +1,52 @@
+{
+  "cacheItemsMap": {
+    "2023.mdx": {
+      "document": {
+        "title": "Detta kommer bli bästa året, 2023.",
+        "date": "2022-11-11T00:00:00.000Z",
+        "body": {
+          "raw": "\nUllamco et nostrud magna commodo nostrud occaecat quis pariatur id ipsum. Ipsum consequat\nenim id excepteur consequat nostrud esse esse fugiat dolore. Reprehenderit occaecat\nexercitation non cupidatat in eiusmod laborum ex eu fugiat aute culpa pariatur. Irure\nelit proident consequat veniam minim ipsum ex pariatur.\n\nMollit nisi cillum exercitation minim officia velit laborum non Lorem\nadipisicing dolore. Labore commodo consectetur commodo velit adipisicing irure\ndolore dolor reprehenderit aliquip. Reprehenderit cillum mollit eiusmod\nexcepteur elit ipsum aute pariatur in. Cupidatat ex culpa velit culpa ad non\nlabore exercitation irure laborum.\n",
+          "html": "<p>Ullamco et nostrud magna commodo nostrud occaecat quis pariatur id ipsum. Ipsum consequat\nenim id excepteur consequat nostrud esse esse fugiat dolore. Reprehenderit occaecat\nexercitation non cupidatat in eiusmod laborum ex eu fugiat aute culpa pariatur. Irure\nelit proident consequat veniam minim ipsum ex pariatur.</p>\n<p>Mollit nisi cillum exercitation minim officia velit laborum non Lorem\nadipisicing dolore. Labore commodo consectetur commodo velit adipisicing irure\ndolore dolor reprehenderit aliquip. Reprehenderit cillum mollit eiusmod\nexcepteur elit ipsum aute pariatur in. Cupidatat ex culpa velit culpa ad non\nlabore exercitation irure laborum.</p>"
+        },
+        "_id": "2023.mdx",
+        "_raw": {
+          "sourceFilePath": "2023.mdx",
+          "sourceFileName": "2023.mdx",
+          "sourceFileDir": ".",
+          "contentType": "mdx",
+          "flattenedPath": "2023"
+        },
+        "type": "Posts",
+        "slug": "2023",
+        "url": "/posts/2023"
+      },
+      "documentHash": "1676546296952",
+      "hasWarnings": false,
+      "documentTypeName": "Posts"
+    },
+    "markus.mdx": {
+      "document": {
+        "title": "Lorem Ipsum cool markus",
+        "date": "2022-11-11T00:00:00.000Z",
+        "body": {
+          "raw": "\nUllamco et nostrud magna commodo nostrud occaecat quis pariatur id ipsum. Ipsum consequat\nenim id excepteur consequat nostrud esse esse fugiat dolore. Reprehenderit occaecat\nexercitation non cupidatat in eiusmod laborum ex eu fugiat aute culpa pariatur. Irure\nelit proident consequat veniam minim ipsum ex pariatur.\n\nMollit nisi cillum exercitation minim officia velit laborum non Lorem\nadipisicing dolore. Labore commodo consectetur commodo velit adipisicing irure\ndolore dolor reprehenderit aliquip. Reprehenderit cillum mollit eiusmod\nexcepteur elit ipsum aute pariatur in. Cupidatat ex culpa velit culpa ad non\nlabore exercitation irure laborum.\n",
+          "html": "<p>Ullamco et nostrud magna commodo nostrud occaecat quis pariatur id ipsum. Ipsum consequat\nenim id excepteur consequat nostrud esse esse fugiat dolore. Reprehenderit occaecat\nexercitation non cupidatat in eiusmod laborum ex eu fugiat aute culpa pariatur. Irure\nelit proident consequat veniam minim ipsum ex pariatur.</p>\n<p>Mollit nisi cillum exercitation minim officia velit laborum non Lorem\nadipisicing dolore. Labore commodo consectetur commodo velit adipisicing irure\ndolore dolor reprehenderit aliquip. Reprehenderit cillum mollit eiusmod\nexcepteur elit ipsum aute pariatur in. Cupidatat ex culpa velit culpa ad non\nlabore exercitation irure laborum.</p>"
+        },
+        "_id": "markus.mdx",
+        "_raw": {
+          "sourceFilePath": "markus.mdx",
+          "sourceFileName": "markus.mdx",
+          "sourceFileDir": ".",
+          "contentType": "mdx",
+          "flattenedPath": "markus"
+        },
+        "type": "Posts",
+        "slug": "markus",
+        "url": "/posts/markus"
+      },
+      "documentHash": "1676546321655",
+      "hasWarnings": false,
+      "documentTypeName": "Posts"
+    }
+  }
+}
